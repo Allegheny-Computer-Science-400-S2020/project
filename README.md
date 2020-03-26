@@ -1,6 +1,8 @@
 
 # cs400-S2020-project-starter
 
+![OSLogo](400.png)
+
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the starter files for the lab of this course.
 
 ## Objectives
@@ -19,7 +21,7 @@ Now, you can mount the local drive and run the container :
 Finally, you can use `gcc filename.c -o filename` to run your C program named `filename`
 
 ## GatorGrader
-There is no GatorGrader requirement for this work. 
+There is no GatorGrader requirement for this work.
 
 
 ## Assistance
